@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f6c4707-c916-4d32-83b1-5c94443948fa" name="Default" comment="" />
+    <list default="true" id="8f6c4707-c916-4d32-83b1-5c94443948fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/mission1.01(2).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01(3).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(3).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01(4).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(4).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.02.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission1.02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.02.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,7 +30,7 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="mission1.01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mission1.01.py">
+        <entry file="file://$PROJECT_DIR$/Home/mission1.01.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="153">
               <caret line="19" selection-start-line="19" selection-end-line="26" />
@@ -28,7 +39,7 @@
         </entry>
       </file>
       <file leaf-file-name="mission1.01(2).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mission1.01(2).py">
+        <entry file="file://$PROJECT_DIR$/Home/mission1.01(2).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" selection-start-line="2" selection-end-line="2" />
@@ -37,7 +48,7 @@
         </entry>
       </file>
       <file leaf-file-name="mission1.01(3).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mission1.01(3).py">
+        <entry file="file://$PROJECT_DIR$/Home/mission1.01(3).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" selection-start-line="5" selection-end-line="12" />
@@ -46,7 +57,7 @@
         </entry>
       </file>
       <file leaf-file-name="mission1.01(4).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/mission1.01(4).py">
+        <entry file="file://$PROJECT_DIR$/Home/mission1.01(4).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
@@ -55,10 +66,10 @@
         </entry>
       </file>
       <file leaf-file-name="mission1.02.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mission1.02.py">
+        <entry file="file://$PROJECT_DIR$/Home/mission1.02.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+            <state relative-caret-position="266">
+              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -71,6 +82,9 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -92,11 +106,12 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1522" />
     <option name="height" value="1932" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -109,6 +124,11 @@
             <path>
               <item name="checkio" type="b2602c69:ProjectViewProjectNode" />
               <item name="checkio" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="checkio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="checkio" type="462c0819:PsiDirectoryNode" />
+              <item name="Home" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -147,7 +167,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mission1.01.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mission1.01(2).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +205,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mission1.01(3).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,7 +224,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mission1.01(4).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(3).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,7 +243,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mission1.02.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\the_most_wanted_letter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -261,16 +281,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-5" y="0" width="761" height="966" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33212996" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33212996" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.5752106" />
       <window_info anchor="bottom" id="Terminal" weight="0.32972324" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24893314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24893314" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -293,38 +312,38 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/mission1.01(4).py">
+    <entry file="file://$PROJECT_DIR$/Home/mission1.01(4).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission1.01.py">
+    <entry file="file://$PROJECT_DIR$/Home/mission1.01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="19" selection-start-line="19" selection-end-line="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission1.01(2).py">
+    <entry file="file://$PROJECT_DIR$/Home/mission1.01(2).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission1.01(3).py">
+    <entry file="file://$PROJECT_DIR$/Home/mission1.01(3).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" selection-start-line="5" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mission1.02.py">
+    <entry file="file://$PROJECT_DIR$/Home/mission1.02.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+        <state relative-caret-position="266">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
