@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f6c4707-c916-4d32-83b1-5c94443948fa" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/mission1.01(2).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(2).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01(3).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(3).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01(4).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01(4).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01(4).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission1.02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/mission1.02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/house_password(0).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/house_password/house_password(0).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/house_password(1).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/house_password/house_password(1).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/house_password(2).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/house_password/house_password(2).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/house_password(3).py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/house_password/house_password(3).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home/the_most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home/the_most_wanted_letter/the_most_wanted_letter.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,26 +24,35 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="mission1.01.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/mission1.01.py">
+      <file leaf-file-name="house_password(0).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(0).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="19" selection-start-line="19" selection-end-line="26" />
+            <state relative-caret-position="323">
+              <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission1.01(2).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/mission1.01(2).py">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="19">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission1.01(3).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/mission1.01(3).py">
+      <file leaf-file-name="house_password(1).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(1).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="house_password(2).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(2).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" selection-start-line="5" selection-end-line="12" />
@@ -56,8 +60,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission1.01(4).py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Home/mission1.01(4).py">
+      <file leaf-file-name="house_password(3).py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(3).py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
               <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
@@ -65,11 +69,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mission1.02.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Home/mission1.02.py">
+      <file leaf-file-name="the_most_wanted_letter.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Home/the_most_wanted_letter/the_most_wanted_letter.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+            <state relative-caret-position="133">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -94,6 +98,7 @@
         <option value="$PROJECT_DIR$/mission1.01(3).py" />
         <option value="$PROJECT_DIR$/mission1.01(4).py" />
         <option value="$PROJECT_DIR$/mission1.02.py" />
+        <option value="$PROJECT_DIR$/Home/house_password(0).py" />
       </list>
     </option>
   </component>
@@ -125,11 +130,6 @@
               <item name="checkio" type="b2602c69:ProjectViewProjectNode" />
               <item name="checkio" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="checkio" type="b2602c69:ProjectViewProjectNode" />
-              <item name="checkio" type="462c0819:PsiDirectoryNode" />
-              <item name="Home" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -140,6 +140,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Vanad\PycharmProjects\checkio\Home\the_most_wanted_letter" />
+      <recent name="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password" />
+      <recent name="C:\Users\Vanad\PycharmProjects\checkio\Home" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -167,7 +174,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(0).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password\house_password(0).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,7 +193,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(1).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password\house_password(1).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -205,7 +212,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(2).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password\house_password(2).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -224,7 +231,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password(3).py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\house_password\house_password(3).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,7 +250,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\the_most_wanted_letter.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Vanad\PycharmProjects\checkio\Home\the_most_wanted_letter\the_most_wanted_letter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,19 +284,27 @@
       <option name="presentableId" value="Default" />
       <updated>1534743113320</updated>
     </task>
+    <task id="LOCAL-00001" summary="Update 1.0">
+      <created>1534778568280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1534778568280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-5" y="0" width="761" height="966" extended-state="0" />
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33212996" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3293556" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" weight="0.5752106" />
       <window_info anchor="bottom" id="Terminal" weight="0.32972324" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24893314" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12027492" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
@@ -311,39 +326,50 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update 1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update 1.0" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Home/mission1.01(4).py">
+    <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(3).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/mission1.01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="19" selection-start-line="19" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/mission1.01(2).py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Home/mission1.01(3).py">
+    <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(2).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" selection-start-line="5" selection-end-line="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home/mission1.02.py">
+    <entry file="file://$PROJECT_DIR$/Home/the_most_wanted_letter/the_most_wanted_letter.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(1).py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Home/house_password/house_password(0).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
